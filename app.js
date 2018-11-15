@@ -1,6 +1,6 @@
 /*
 GAME RULES:
-- Player must guess number beween a min and max value
+- Player must guess number between a min and max value
 - Player gets a certain amount of guesses
 - Notify player of guesses remaining
 - Notify player of correct answer if they lose
