@@ -59,7 +59,7 @@ guessBtn.addEventListener('click', function() {
       // Check to see if any guesses left
       if (guessesLeft === 0) {
          // Game Over => Lost
-         gameOver(false, `Hey loser, the correct number was ${winningNum}.  Better luck next time!`);
+         gameOver(false, `Hey friend, the correct number was ${winningNum}.  Better luck next time!`);
       } else {
          // Game Continutes => Answer Incorrect
 
